@@ -1,0 +1,12 @@
+ Observe the following code and answer the question that follow:
+
+File=open(“Mydata”,”a”)
+____________# Blank 1
+File.close()
+
+What type (Text/Binary) of file is Mydata?
+Fill the Blank 1 with statement to write ”ABC” in the file ”Mydata”.
+Ans. 
+
+Text file
+File.write(“ABC”)
