@@ -1,0 +1,7 @@
+Q.10 What are the differentiate File Attributes in Python?
+Ans.                                                                                    
+
+closed: Returns true if file is closed, false otherwise.
+mode: Returns access mode with which file was opened.
+name: Returns name of the file.
+softspace: Returns false if space explicitly required with print, true otherwise.
