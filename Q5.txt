@@ -1,0 +1,5 @@
+Q.6 What is file handle?
+Ans.
+
+When we call the open command, it returns to us a file object or reference to the file, it is called file handle.
+This file handle is used to carry out any subsequent operation on the file like read or write.
