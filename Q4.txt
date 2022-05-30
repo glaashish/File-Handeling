@@ -1,0 +1,6 @@
+Differentiate between file modes r+ and w+ with respect to Python.
+Ans.
+
+r+	w+
+File must exist otherwise error is raised	File is created if it does not exist. If exists, the data is truncated
+Cannot truncate a file	Can truncate a file if it exists
