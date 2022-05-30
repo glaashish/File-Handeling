@@ -1,0 +1,5 @@
+ Write a statement in Python to perform the following operations
+
+To open a binary file “LOG.DAT” in read mode
+To open a binary file“LOG.DAT” in write mode
+Ans.
