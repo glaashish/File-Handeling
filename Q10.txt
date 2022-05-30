@@ -1,0 +1,6 @@
+Q.11 How do you find no of characters, now of words or number of lines in Python text file?
+Ans.                                                                                    
+
+Size of file in bytes = len(file.read())
+Number of words = len(file.read().split())
+Number of lines = len(file.readlines())
