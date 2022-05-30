@@ -1,0 +1,5 @@
+ Write a statement in Python to perform the following operations
+ To open a text file “MYPET.TXT” in write mode
+To open a text file“MYPET.TXT” in read mode
+Ans.       f1=open(“MYPET.TXT”,’w’)
+                f2=open(“MYPET.TXT”,’r’)
